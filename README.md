@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Paiva</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 📖 I study computer engineering at [UTFPR](http://www.utfpr.edu.br/]
+- 📖 I study computer engineering at [UTFPR](http://www.utfpr.edu.br/)
 
 - 🔭 I’m currently working on [social-reactivities](https://github.com/bylucaspaiva/social-reactvities)
 
