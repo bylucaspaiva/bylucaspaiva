@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Lucas Paiva</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
 
 - 📖 I study computer engineering at [UTFPR](http://www.utfpr.edu.br/)
 
@@ -10,7 +9,6 @@
 
 - 📫 How to reach me **lucasp4iva@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
