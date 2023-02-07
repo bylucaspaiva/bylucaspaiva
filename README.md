@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Lucas Paiva</h1>
+<h1 align="left">Hi 👋, I'm Lucas Paiva</h1>
+
 
 - 📖 I study computer engineering at [UTFPR](http://www.utfpr.edu.br/)
 
