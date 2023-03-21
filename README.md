@@ -4,7 +4,6 @@
   <a href="https://github.com/bylucaspaiva" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bylucaspaiva"></a>
   <a href="https://twitter.com/bylucaspaiva" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bylucaspaiva"></a>
 </p>
-<p align="center">Hi there! 👋</p>
 <p align="center">I'm Lucas Paiva, a software developer with a passion for problem-solving and creating awesome applications.</p>
 <br>
 <p align="center">🚀 Currently, I'm working on social-reactivities</p>
