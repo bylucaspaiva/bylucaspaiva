@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Lucas Paiva</h1>
 <p align="center">
- <a href="https://www.linkedin.com/in/bylucaspaiva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bylucaspaiva/"></a>
+ <a href="https://www.linkedin.com/in/lucasp4iva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasp4iva/"></a>
   <a href="https://github.com/bylucaspaiva" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bylucaspaiva"></a>
   <a href="https://twitter.com/bylucaspaiva" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bylucaspaiva"></a>
 </p>
