@@ -12,7 +12,6 @@
 <br>
 <p align="center">📫 Feel free to reach me at lucasp4iva@gmail.com, and let's connect!</p> 
 <br> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bylucaspaiva&layout=compact&theme=dark" alt="bylucaspaiva" /></p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
