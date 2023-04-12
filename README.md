@@ -6,9 +6,9 @@
 </p>
 <p align="center">I'm Lucas Paiva, a software developer with a passion for problem-solving and creating awesome applications.</p>
 <br>
-<p align="center">🚀 Currently, I'm working on <a href="https://github.com/bylucaspaiva/social-reactvities">social-reactivities</a> and <a href="https://github.com/bylucaspaiva/surreal-dashboard">surreal-dashboard</a></p>
+<p align="center">🚀 Currently, I'm working on <a href="https://github.com/bylucaspaiva/social-reactvities">social-reactivities</a>.
 <br>
-<p align="center">💻 I have experience with various technologies, including React, .NET, advanced algorithms and data structures.</p>
+<p align="center">💻 I have experience with various technologies, including React, .NET, Node, advanced algorithms and data structures.</p>
 <br>
 <p align="center">📫 Feel free to reach me at lucasp4iva@gmail.com, and let's connect!</p> 
 <br> 
