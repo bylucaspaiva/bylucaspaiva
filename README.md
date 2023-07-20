@@ -14,9 +14,6 @@
     <a href="https://www.linkedin.com/in/lucasp4iva/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
-    <a href="https://github.com/bylucaspaiva" target="_blank">
-      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white">
-    </a>
     <a href="https://twitter.com/bylucaspaiva" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
