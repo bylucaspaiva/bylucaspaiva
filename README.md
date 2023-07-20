@@ -4,7 +4,7 @@
   
   <p><i>Passionate about transforming ideas into code and making them come to life. 💡</i></p>
   
-  <p>📌 Currently working on: <a href="https://github.com/bylucaspaiva/social-reactivities">social-reactivities</a></p>
+  <p>📌 Currently working on: <a href="https://github.com/bylucaspaiva/Linktivities">Linktivities</a></p>
   
   <p>🛠️ Tech Stack: <i>React, .NET, Node.js, C, C++, JavaScript, TypeScript</i></p>
   
