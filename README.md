@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>👋 Hi, I'm Lucas Paiva 🚀</h1>
+  <h1>👋 Hi there </h1>
   <p>I'm a software developer who loves to solve problems and create awesome applications.</p>
   
   <p><i>Passionate about transforming ideas into code and making them come to life. 💡</i></p>
