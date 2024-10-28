@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
   <h1>👋 Hi there </h1>
   <p>I'm a software developer who loves to solve problems and create awesome applications.</p>
