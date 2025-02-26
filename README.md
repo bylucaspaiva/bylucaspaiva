@@ -16,7 +16,7 @@ I'm a developer passionate about turning ideas into efficient, scalable solution
 ## 📫 Get in Touch
 
 - **Email:** [lucasp4iva@gmail.com](mailto:lucasp4iva@gmail.com)
-- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/lucasp4iva/)
+- **LinkedIn:** [lucasp4iva](https://www.linkedin.com/in/lucasp4iva/)
 
 ---
 
