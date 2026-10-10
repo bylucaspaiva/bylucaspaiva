@@ -2,7 +2,7 @@
 
 **Senior software engineer in São Paulo. .NET and SQL at work, four products of my own after hours.**
 
-I'm the tech lead at Plenaver (Grupo Évora), a platform in a regulated market where I work directly with banks and insurers. Outside of that I run a one-person studio, IDS, where I design, build and operate my own apps with a team of AI coding agents that I coordinate.
+I'm the head of technology at Plenaver (Grupo Évora), a platform in a regulated market where I work directly with banks and insurers. Outside of that I run a one-person studio, IDS, where I design, build and operate my own apps with a team of AI coding agents that I coordinate.
 
 I've been programming for almost ten years, and I care most about the unglamorous parts: data models, query plans, offline sync, and evidence that the thing works.
 
@@ -28,7 +28,7 @@ Happy to walk through any of them in a conversation.
 
 ## At work
 
-- **Plenaver (Grupo Évora), 2024 to now.** Senior engineer and tech lead. Made critical database workloads up to 99% faster through indexing, refactoring and materialization, automated report delivery end to end, and introduced structured logging and telemetry on Azure and AWS.
+- **Plenaver (Grupo Évora), 2024 to now.** Head of technology. Made critical database workloads up to 99% faster through indexing, refactoring and materialization, automated report delivery end to end, and introduced structured logging and telemetry on Azure and AWS.
 - **Before that.** A high-traffic authentication portal on microservices for São Paulo's Military Police, where server-side pagination and query tuning cut load time by 40%; a web app that replaced a Windows Forms system at a law firm; and an e-commerce backend.
 
 ## Stack
